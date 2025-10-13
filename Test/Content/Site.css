@@ -1,0 +1,98 @@
+﻿/* Set padding to keep content from hitting the edges */
+.body-content {
+    margin-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+.suchleisteContainer {
+    box-sizing: border-box;
+}
+
+.suchleiste {
+    width: 50vw;
+    box-sizing: border-box;
+}
+
+.neuesbuchButton {
+    background-color: #05792b;
+    color: #ffffff;
+}
+
+.neuesbuchButton:hover {
+    background-color: #00ff21;
+    color: #000000;
+}
+
+.neuesbuchContainer {
+    padding-block: 16px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid #000000;
+    padding: 4px;
+}
+
+th {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 16px;
+    text-align: left;
+    background-color: #ffffff;
+    color: #000000;
+}
+
+tr:nth-child(even){background-color:#d5d5d5;}
+tr:hover {background-color:#828181;}
+
+.editButton {
+    background-color: transparent;
+    border-color: #ff6a00;
+    color: #ff6a00;
+}                       
+.editButton:hover {
+    background-color: #ff6a00;
+    border-color: transparent;
+    color: #000000
+}
+
+.detailsButton {
+    background-color: transparent;
+    border-color: #0099fe;
+    color: #0099fe;
+}
+.detailsButton:hover {
+    background-color: #0099fe;
+    border-color: transparent;
+    color: #000000
+}
+
+.deleteButton {
+    background-color: transparent;
+    border-color: #ff0000;
+    color: #ff0000;
+}
+.deleteButton:hover {
+    background-color: #ff0000;
+    border-color: transparent;
+    color: #000000
+}
