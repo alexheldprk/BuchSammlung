@@ -20,12 +20,11 @@ textarea {
 }
 
 .suchleisteContainer {
-    box-sizing: border-box;
+    width: 200%;
 }
 
 .suchleiste {
-    width: 50vw;
-    box-sizing: border-box;
+    width: 200%;
 }
 
 .neuesbuchButton {

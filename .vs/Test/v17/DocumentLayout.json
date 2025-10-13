@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ah\\source\\repos\\Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14B372FC-2222-433F-9440-DF2C0D77CAD4}|Test\\Test.csproj|c:\\users\\ah\\source\\repos\\test\\test\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{14B372FC-2222-433F-9440-DF2C0D77CAD4}|Test\\Test.csproj|solutionrelative:test\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B372FC-2222-433F-9440-DF2C0D77CAD4}|Test\\Test.csproj|C:\\Users\\ah\\source\\repos\\Test\\test\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14B372FC-2222-433F-9440-DF2C0D77CAD4}|Test\\Test.csproj|solutionrelative:test\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B372FC-2222-433F-9440-DF2C0D77CAD4}|Test\\Test.csproj|C:\\Users\\ah\\source\\repos\\Test\\test\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B372FC-2222-433F-9440-DF2C0D77CAD4}|Test\\Test.csproj|solutionrelative:test\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B372FC-2222-433F-9440-DF2C0D77CAD4}|Test\\Test.csproj|C:\\Users\\ah\\source\\repos\\Test\\test\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14B372FC-2222-433F-9440-DF2C0D77CAD4}|Test\\Test.csproj|solutionrelative:test\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B372FC-2222-433F-9440-DF2C0D77CAD4}|Test\\Test.csproj|C:\\Users\\ah\\source\\repos\\Test\\test\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14B372FC-2222-433F-9440-DF2C0D77CAD4}|Test\\Test.csproj|solutionrelative:test\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B372FC-2222-433F-9440-DF2C0D77CAD4}|Test\\Test.csproj|C:\\Users\\ah\\source\\repos\\Test\\test\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14B372FC-2222-433F-9440-DF2C0D77CAD4}|Test\\Test.csproj|solutionrelative:test\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B372FC-2222-433F-9440-DF2C0D77CAD4}|Test\\Test.csproj|C:\\Users\\ah\\source\\repos\\Test\\test\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14B372FC-2222-433F-9440-DF2C0D77CAD4}|Test\\Test.csproj|solutionrelative:test\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ah\\source\\repos\\Test\\Test\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Test\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ah\\source\\repos\\Test\\Test\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Test\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T14:38:25.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ah\\source\\repos\\Test\\Test\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Test\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ah\\source\\repos\\Test\\Test\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Test\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T07:32:12.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\ah\\source\\repos\\Test\\Test\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Test\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\ah\\source\\repos\\Test\\Test\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Test\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T07:29:03.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\ah\\source\\repos\\Test\\Test\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Test\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\ah\\source\\repos\\Test\\Test\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Test\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T07:28:26.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Site.css",
+              "DocumentMoniker": "C:\\Users\\ah\\source\\repos\\Test\\Test\\Content\\Site.css",
+              "RelativeDocumentMoniker": "Test\\Content\\Site.css",
+              "ToolTip": "C:\\Users\\ah\\source\\repos\\Test\\Test\\Content\\Site.css*",
+              "RelativeToolTip": "Test\\Content\\Site.css*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-10T08:29:08.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ah\\source\\repos\\Test\\Test\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Test\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ah\\source\\repos\\Test\\Test\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Test\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T07:26:47.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ah\\source\\repos\\Test\\Test\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Test\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ah\\source\\repos\\Test\\Test\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Test\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T07:26:02.352Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
