@@ -1,0 +1,39 @@
+﻿@{
+    Layout = "~Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Neues Buch erstellen</title>
+</head>
+<body>
+    <div id="popupFormular" class="popup">
+        <div>
+            <span class="schließen">&times;</span>
+            <h3>Neues Buch hinzufuegen</h3>
+
+
+            <form id="buchform">
+                <label for="titel">Titel</label>
+                <input type="text" id="titel" name="titel" required/>
+
+                <label for="autor">Author</label>
+                <input type="text" id="autor" name="autor" required/>
+
+                <label for="isbn">ISBN-Nummer</label>
+                <input type="text" id="isbn" name="isbn" required/>
+
+                <label for="jahr">Erscheinungsjahr</label>
+                <input type="number" id="jahr" name="jahr" value="0" min="0" required/>
+
+
+                <button type="submit" class="btn btn-primary">Erstellen</button>
+                <button type="button" id="abbrechen" class="btn btn-secondary">Abbrechen</button>
+            </form>
+        </div>
+    </div>
+</body>
+</html>
