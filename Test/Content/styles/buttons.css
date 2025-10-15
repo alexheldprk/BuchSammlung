@@ -1,0 +1,56 @@
+﻿
+/*Buch hinzufuegen Button */
+
+.neuesbuchButton {
+    background-color: #05792b;
+    color: #ffffff;
+}
+
+    .neuesbuchButton:hover {
+        background-color: #00ff21;
+        color: #000000;
+    }
+
+.neuesbuchContainer {
+    padding-block: 16px;
+}
+
+
+
+/*Formular buttons*/
+
+.editButton {
+    background-color: transparent;
+    border-color: #ff6a00;
+    color: #ff6a00;
+}
+
+    .editButton:hover {
+        background-color: #ff6a00;
+        border-color: black;
+        color: #000000
+    }
+
+.detailsButton {
+    background-color: transparent;
+    border-color: #0099fe;
+    color: #0099fe;
+}
+
+    .detailsButton:hover {
+        background-color: #0099fe;
+        border-color: black;
+        color: #000000
+    }
+
+.deleteButton {
+    background-color: transparent;
+    border-color: #ff0000;
+    color: #ff0000;
+}
+
+    .deleteButton:hover {
+        background-color: #ff0000;
+        border-color: black;
+        color: #000000;
+    }

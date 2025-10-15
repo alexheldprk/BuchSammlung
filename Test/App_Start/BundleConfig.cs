@@ -24,7 +24,10 @@ namespace Test
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css",
-                      "~/Content/site.css"));
+                      "~/Content/styles/site.css",
+                      "~/Content/styles/table.css",
+                      "~/Content/styles/buttons.css",
+                      "~/Content/styles/newbookPopup.css"));
         }
     }
 }
