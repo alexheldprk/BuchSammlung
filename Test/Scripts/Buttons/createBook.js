@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", function () {
     /*Referenziere Elemente aus HTML Formular*/
     const popup = document.getElementById("popupFormular");
     const oeffnenButton = document.querySelector(".neuesbuchButton");
-    const schliessenButton = document.querySelector(".schliessen");
+    const schliessenButton = document.querySelector(".createclose");
     const abbrechenButton = document.getElementById("abbrechen");
     const formular = document.getElementById("buchform");
 
@@ -13,10 +13,12 @@ document.addEventListener("DOMContentLoaded", function () {
         popup.style.display = "block";
     }
 
-    /*   popup schliessen/ausblenden*/
+    /*   popup schliessen/ausblenden/formular beim schliessen Leeren*/
     function popupSchliessen() {
         popup.style.display = "none";
-        if (formular) formular.reset();  /*formular beim schliessen Leeren*/
+        if (formular && typeof formular.reset === "function") {
+            formular.reset();
+        }  
     }
 
     if (oeffnenButton) {
@@ -54,7 +56,7 @@ document.addEventListener("DOMContentLoaded", function () {
             const isbn = document.getElementById("isbn")?.value || "";
             const jahr = document.getElementById("jahr")?.value || "";
 
-            /*Validierung*/
+            Validierung
             if (!titel.trim() || !autor.trim() || !isbn.trim()) {
                 alert("Bitte trage Titel, Author und ISBN ein.");
                 return;

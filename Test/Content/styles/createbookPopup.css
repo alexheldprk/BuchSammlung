@@ -22,7 +22,7 @@
     box-shadow: 0 4px 12px rgba(0,0,0,0.15);
 }
 
-.schliessen {
+.createclose {
     position: absolute;
     top: 10px;
     right: 15px;
@@ -31,14 +31,14 @@
     color: #aaa;
 }
 
-    .schliessen:hover {
+    .createclose:hover {
         color: black;
         cursor: pointer;
     }
 
 /*popupfelder*/
 
-.eingabe-formular {
+.createformular {
     display: grid;
     gap: 12px;
     max-width: 500px;

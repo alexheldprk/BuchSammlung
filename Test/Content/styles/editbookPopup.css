@@ -1,0 +1,68 @@
+﻿/*neues buch popup*/
+
+.popup {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 1000;
+}
+
+.popup-inhalt {
+    background: white;
+    margin: 8% auto;
+    padding: 20px;
+    width: 90%;
+    max-width: 500px;
+    border-radius: 8px;
+    position: relative;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+.editclose {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    font-size: 24px;
+    cursor: pointer;
+    color: #aaa;
+}
+
+    .editclose:hover {
+        color: black;
+        cursor: pointer;
+    }
+
+/*popupfelder*/
+
+.editformular {
+    display: grid;
+    gap: 12px;
+    max-width: 500px;
+    margin: 20px auto;
+}
+
+.form-row {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    align-items: center;
+    gap: 12px;
+}
+
+    .form-row label {
+        font-weight: bold;
+        text-align: left;
+    }
+
+    .form-row input,
+    .form-row select,
+    .form-row textarea {
+        padding: 8px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        align-content: center;
+        margin-bottom: 20px;
+    }

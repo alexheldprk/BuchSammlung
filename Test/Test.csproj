@@ -145,7 +145,8 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\bootstrap.rtl.css" />
     <Content Include="Content\bootstrap.rtl.min.css" />
-    <Content Include="Content\styles\newbookPopup.css" />
+    <Content Include="Content\styles\editbookPopup.css" />
+    <Content Include="Content\styles\createbookPopup.css" />
     <Content Include="Content\styles\table.css" />
     <Content Include="Content\styles\buttons.css" />
     <Content Include="favicon.ico" />
@@ -186,6 +187,7 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Shared\_createBook.cshtml" />
     <Content Include="Views\Shared\_editBook.cshtml" />
+    <Content Include="Views\Shared\_detailsBook.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

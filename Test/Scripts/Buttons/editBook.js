@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const popup = document.getElementById("editPopup");
     const oeffnenButton = document.querySelector(".editButton");
     /*const schliessenButton = document.querySelector(".schliessen");*/
-    const schliessenButton = document.querySelector(".schliessen");
+    const schliessenButton = document.querySelector(".editclose");
     const abbrechenButton = document.getElementById("abbrechen");
     const formular = document.getElementById("buchform");
 
@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", function () {
     /*   popup schliessen/ausblenden*/
     function popupSchliessen() {
         popup.style.display = "none";
-        if (formular) formular.reset();  /*formular beim schliessen Leeren*/
+        /*if (formular) formular.reset();  *//*formular beim schliessen Leeren*/
     }
 
     if (oeffnenButton) {

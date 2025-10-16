@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ah\\source\\repos\\Test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{14B372FC-2222-433F-9440-DF2C0D77CAD4}|Test\\Test.csproj|c:\\users\\ah\\source\\repos\\test\\test\\scripts\\buttons\\editbook.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{14B372FC-2222-433F-9440-DF2C0D77CAD4}|Test\\Test.csproj|solutionrelative:test\\scripts\\buttons\\editbook.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14B372FC-2222-433F-9440-DF2C0D77CAD4}|Test\\Test.csproj|C:\\Users\\ah\\source\\repos\\Test\\test\\scripts\\buttons\\createbook.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{14B372FC-2222-433F-9440-DF2C0D77CAD4}|Test\\Test.csproj|solutionrelative:test\\scripts\\buttons\\createbook.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{14B372FC-2222-433F-9440-DF2C0D77CAD4}|Test\\Test.csproj|c:\\users\\ah\\source\\repos\\test\\test\\content\\styles\\createbookpopup.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{14B372FC-2222-433F-9440-DF2C0D77CAD4}|Test\\Test.csproj|solutionrelative:test\\content\\styles\\createbookpopup.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{14B372FC-2222-433F-9440-DF2C0D77CAD4}|Test\\Test.csproj|C:\\Users\\ah\\source\\repos\\Test\\test\\views\\shared\\_createbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{14B372FC-2222-433F-9440-DF2C0D77CAD4}|Test\\Test.csproj|solutionrelative:test\\views\\shared\\_createbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B372FC-2222-433F-9440-DF2C0D77CAD4}|Test\\Test.csproj|c:\\users\\ah\\source\\repos\\test\\test\\content\\styles\\editbookpopup.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{14B372FC-2222-433F-9440-DF2C0D77CAD4}|Test\\Test.csproj|solutionrelative:test\\content\\styles\\editbookpopup.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{14B372FC-2222-433F-9440-DF2C0D77CAD4}|Test\\Test.csproj|C:\\Users\\ah\\source\\repos\\Test\\test\\views\\shared\\_editbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -23,12 +23,12 @@
       "RelativeMoniker": "D:0:0:{14B372FC-2222-433F-9440-DF2C0D77CAD4}|Test\\Test.csproj|solutionrelative:test\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14B372FC-2222-433F-9440-DF2C0D77CAD4}|Test\\Test.csproj|C:\\Users\\ah\\source\\repos\\Test\\test\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14B372FC-2222-433F-9440-DF2C0D77CAD4}|Test\\Test.csproj|solutionrelative:test\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14B372FC-2222-433F-9440-DF2C0D77CAD4}|Test\\Test.csproj|C:\\Users\\ah\\source\\repos\\Test\\test\\scripts\\buttons\\createbook.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{14B372FC-2222-433F-9440-DF2C0D77CAD4}|Test\\Test.csproj|solutionrelative:test\\scripts\\buttons\\createbook.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14B372FC-2222-433F-9440-DF2C0D77CAD4}|Test\\Test.csproj|C:\\Users\\ah\\source\\repos\\Test\\test\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14B372FC-2222-433F-9440-DF2C0D77CAD4}|Test\\Test.csproj|solutionrelative:test\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14B372FC-2222-433F-9440-DF2C0D77CAD4}|Test\\Test.csproj|c:\\users\\ah\\source\\repos\\test\\test\\scripts\\buttons\\editbook.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{14B372FC-2222-433F-9440-DF2C0D77CAD4}|Test\\Test.csproj|solutionrelative:test\\scripts\\buttons\\editbook.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{14B372FC-2222-433F-9440-DF2C0D77CAD4}|Test\\Test.csproj|C:\\Users\\ah\\source\\repos\\Test\\test\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,8 +39,8 @@
       "RelativeMoniker": "D:0:0:{14B372FC-2222-433F-9440-DF2C0D77CAD4}|Test\\Test.csproj|solutionrelative:test\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14B372FC-2222-433F-9440-DF2C0D77CAD4}|Test\\Test.csproj|C:\\Users\\ah\\source\\repos\\Test\\test\\content\\styles\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{14B372FC-2222-433F-9440-DF2C0D77CAD4}|Test\\Test.csproj|solutionrelative:test\\content\\styles\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{14B372FC-2222-433F-9440-DF2C0D77CAD4}|Test\\Test.csproj|C:\\Users\\ah\\source\\repos\\Test\\test\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B372FC-2222-433F-9440-DF2C0D77CAD4}|Test\\Test.csproj|solutionrelative:test\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,8 +50,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "createbookPopup.css",
+              "DocumentMoniker": "C:\\Users\\ah\\source\\repos\\Test\\Test\\Content\\styles\\createbookPopup.css",
+              "RelativeDocumentMoniker": "Test\\Content\\styles\\createbookPopup.css",
+              "ToolTip": "C:\\Users\\ah\\source\\repos\\Test\\Test\\Content\\styles\\createbookPopup.css",
+              "RelativeToolTip": "Test\\Content\\styles\\createbookPopup.css",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-16T14:55:38.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "editbookPopup.css",
+              "DocumentMoniker": "C:\\Users\\ah\\source\\repos\\Test\\Test\\Content\\styles\\editbookPopup.css",
+              "RelativeDocumentMoniker": "Test\\Content\\styles\\editbookPopup.css",
+              "ToolTip": "C:\\Users\\ah\\source\\repos\\Test\\Test\\Content\\styles\\editbookPopup.css",
+              "RelativeToolTip": "Test\\Content\\styles\\editbookPopup.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-16T14:55:40.841Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
@@ -60,7 +86,7 @@
               "RelativeDocumentMoniker": "Test\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\ah\\source\\repos\\Test\\Test\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Test\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-10T07:26:47.444Z",
               "EditorCaption": ""
@@ -73,65 +99,53 @@
               "RelativeDocumentMoniker": "Test\\Views\\Shared\\_editBook.cshtml",
               "ToolTip": "C:\\Users\\ah\\source\\repos\\Test\\Test\\Views\\Shared\\_editBook.cshtml",
               "RelativeToolTip": "Test\\Views\\Shared\\_editBook.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-15T13:14:39.806Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "_createBook.cshtml",
               "DocumentMoniker": "C:\\Users\\ah\\source\\repos\\Test\\Test\\Views\\Shared\\_createBook.cshtml",
               "RelativeDocumentMoniker": "Test\\Views\\Shared\\_createBook.cshtml",
               "ToolTip": "C:\\Users\\ah\\source\\repos\\Test\\Test\\Views\\Shared\\_createBook.cshtml",
               "RelativeToolTip": "Test\\Views\\Shared\\_createBook.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-14T10:24:30.754Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "editBook.js",
               "DocumentMoniker": "C:\\Users\\ah\\source\\repos\\Test\\Test\\Scripts\\Buttons\\editBook.js",
               "RelativeDocumentMoniker": "Test\\Scripts\\Buttons\\editBook.js",
               "ToolTip": "C:\\Users\\ah\\source\\repos\\Test\\Test\\Scripts\\Buttons\\editBook.js",
               "RelativeToolTip": "Test\\Scripts\\Buttons\\editBook.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-10-15T12:50:21.724Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "createBook.js",
               "DocumentMoniker": "C:\\Users\\ah\\source\\repos\\Test\\Test\\Scripts\\Buttons\\createBook.js",
               "RelativeDocumentMoniker": "Test\\Scripts\\Buttons\\createBook.js",
               "ToolTip": "C:\\Users\\ah\\source\\repos\\Test\\Test\\Scripts\\Buttons\\createBook.js",
               "RelativeToolTip": "Test\\Scripts\\Buttons\\createBook.js",
-              "ViewState": "AgIAACIAAAAAAAAAAAAgwCkAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-10-14T10:16:08.537Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\ah\\source\\repos\\Test\\Test\\Models\\Book.cs",
-              "RelativeDocumentMoniker": "Test\\Models\\Book.cs",
-              "ToolTip": "C:\\Users\\ah\\source\\repos\\Test\\Test\\Models\\Book.cs",
-              "RelativeToolTip": "Test\\Models\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T13:20:33.77Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "BooksController.cs",
               "DocumentMoniker": "C:\\Users\\ah\\source\\repos\\Test\\Test\\Controllers\\BooksController.cs",
               "RelativeDocumentMoniker": "Test\\Controllers\\BooksController.cs",
@@ -149,9 +163,10 @@
               "RelativeDocumentMoniker": "Test\\App_Start\\BundleConfig.cs",
               "ToolTip": "C:\\Users\\ah\\source\\repos\\Test\\Test\\App_Start\\BundleConfig.cs",
               "RelativeToolTip": "Test\\App_Start\\BundleConfig.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T12:27:09.654Z"
+              "WhenOpened": "2025-10-13T12:27:09.654Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -161,21 +176,10 @@
               "RelativeDocumentMoniker": "Test\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\ah\\source\\repos\\Test\\Test\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Test\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-10T14:38:25.857Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Site.css",
-              "DocumentMoniker": "C:\\Users\\ah\\source\\repos\\Test\\Test\\Content\\styles\\Site.css",
-              "RelativeDocumentMoniker": "Test\\Content\\styles\\Site.css",
-              "ToolTip": "C:\\Users\\ah\\source\\repos\\Test\\Test\\Content\\styles\\Site.css",
-              "RelativeToolTip": "Test\\Content\\styles\\Site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-10-10T08:29:08.271Z"
+              "WhenOpened": "2025-10-10T14:38:25.857Z",
+              "EditorCaption": ""
             }
           ]
         }
