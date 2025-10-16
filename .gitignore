@@ -243,3 +243,11 @@ paket-files/
 # JetBrains Rider
 .idea/
 *.sln.iml
+/.vs/Test/v17/.suo
+/.vs/Test/config/applicationhost.config
+/.vs/Test/config/applicationhost.config
+/.vs/Test/v17/.suo
+/.vs/Test/v17/DocumentLayout.backup.json
+/.vs/Test/v17/DocumentLayout.json
+/Test/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/Test/obj/Debug/Test.csproj.AssemblyReference.cache
