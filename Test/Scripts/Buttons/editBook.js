@@ -4,6 +4,7 @@ document.addEventListener("DOMContentLoaded", function () {
     /*Referenziere Elemente aus HTML Formular*/
     const popup = document.getElementById("editPopup");
     const oeffnenButton = document.querySelector(".editButton");
+    /*const schliessenButton = document.querySelector(".schliessen");*/
     const schliessenButton = document.querySelector(".schliessen");
     const abbrechenButton = document.getElementById("abbrechen");
     const formular = document.getElementById("buchform");

@@ -11,15 +11,15 @@
       "RelativeMoniker": "D:0:0:{14B372FC-2222-433F-9440-DF2C0D77CAD4}|Test\\Test.csproj|solutionrelative:test\\scripts\\buttons\\createbook.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14B372FC-2222-433F-9440-DF2C0D77CAD4}|Test\\Test.csproj|c:\\users\\ah\\source\\repos\\test\\test\\views\\shared\\_createbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{14B372FC-2222-433F-9440-DF2C0D77CAD4}|Test\\Test.csproj|C:\\Users\\ah\\source\\repos\\Test\\test\\views\\shared\\_createbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{14B372FC-2222-433F-9440-DF2C0D77CAD4}|Test\\Test.csproj|solutionrelative:test\\views\\shared\\_createbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14B372FC-2222-433F-9440-DF2C0D77CAD4}|Test\\Test.csproj|c:\\users\\ah\\source\\repos\\test\\test\\views\\shared\\_editbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{14B372FC-2222-433F-9440-DF2C0D77CAD4}|Test\\Test.csproj|C:\\Users\\ah\\source\\repos\\Test\\test\\views\\shared\\_editbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{14B372FC-2222-433F-9440-DF2C0D77CAD4}|Test\\Test.csproj|solutionrelative:test\\views\\shared\\_editbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14B372FC-2222-433F-9440-DF2C0D77CAD4}|Test\\Test.csproj|c:\\users\\ah\\source\\repos\\test\\test\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{14B372FC-2222-433F-9440-DF2C0D77CAD4}|Test\\Test.csproj|C:\\Users\\ah\\source\\repos\\Test\\test\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{14B372FC-2222-433F-9440-DF2C0D77CAD4}|Test\\Test.csproj|solutionrelative:test\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -39,7 +39,7 @@
       "RelativeMoniker": "D:0:0:{14B372FC-2222-433F-9440-DF2C0D77CAD4}|Test\\Test.csproj|solutionrelative:test\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14B372FC-2222-433F-9440-DF2C0D77CAD4}|Test\\Test.csproj|c:\\users\\ah\\source\\repos\\test\\test\\content\\styles\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{14B372FC-2222-433F-9440-DF2C0D77CAD4}|Test\\Test.csproj|C:\\Users\\ah\\source\\repos\\Test\\test\\content\\styles\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{14B372FC-2222-433F-9440-DF2C0D77CAD4}|Test\\Test.csproj|solutionrelative:test\\content\\styles\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
@@ -73,7 +73,7 @@
               "RelativeDocumentMoniker": "Test\\Views\\Shared\\_editBook.cshtml",
               "ToolTip": "C:\\Users\\ah\\source\\repos\\Test\\Test\\Views\\Shared\\_editBook.cshtml",
               "RelativeToolTip": "Test\\Views\\Shared\\_editBook.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-15T13:14:39.806Z",
               "EditorCaption": ""
@@ -97,9 +97,9 @@
               "Title": "editBook.js",
               "DocumentMoniker": "C:\\Users\\ah\\source\\repos\\Test\\Test\\Scripts\\Buttons\\editBook.js",
               "RelativeDocumentMoniker": "Test\\Scripts\\Buttons\\editBook.js",
-              "ToolTip": "C:\\Users\\ah\\source\\repos\\Test\\Test\\Scripts\\Buttons\\editBook.js",
-              "RelativeToolTip": "Test\\Scripts\\Buttons\\editBook.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ah\\source\\repos\\Test\\Test\\Scripts\\Buttons\\editBook.js*",
+              "RelativeToolTip": "Test\\Scripts\\Buttons\\editBook.js*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-10-15T12:50:21.724Z",
               "EditorCaption": ""
@@ -112,7 +112,7 @@
               "RelativeDocumentMoniker": "Test\\Scripts\\Buttons\\createBook.js",
               "ToolTip": "C:\\Users\\ah\\source\\repos\\Test\\Test\\Scripts\\Buttons\\createBook.js",
               "RelativeToolTip": "Test\\Scripts\\Buttons\\createBook.js",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACkAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwCkAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-10-14T10:16:08.537Z",
               "EditorCaption": ""
@@ -127,8 +127,7 @@
               "RelativeToolTip": "Test\\Models\\Book.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T13:20:33.77Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-13T13:20:33.77Z"
             },
             {
               "$type": "Document",
@@ -140,8 +139,7 @@
               "RelativeToolTip": "Test\\Controllers\\BooksController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T07:18:46.753Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-14T07:18:46.753Z"
             },
             {
               "$type": "Document",
@@ -153,8 +151,7 @@
               "RelativeToolTip": "Test\\App_Start\\BundleConfig.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T12:27:09.654Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-13T12:27:09.654Z"
             },
             {
               "$type": "Document",
@@ -166,8 +163,7 @@
               "RelativeToolTip": "Test\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-10T14:38:25.857Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-10T14:38:25.857Z"
             },
             {
               "$type": "Document",
@@ -179,8 +175,7 @@
               "RelativeToolTip": "Test\\Content\\styles\\Site.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-10-10T08:29:08.271Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-10T08:29:08.271Z"
             }
           ]
         }
