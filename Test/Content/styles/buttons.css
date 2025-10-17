@@ -1,17 +1,18 @@
 ﻿
 /*Buch hinzufuegen Button */
 
-.neuesbuchButton {
+.createButton {
     background-color: #05792b;
     color: #ffffff;
+    border-radius: 10px;
 }
 
-    .neuesbuchButton:hover {
+    .createButton:hover {
         background-color: #00ff21;
         color: #000000;
     }
 
-.neuesbuchContainer {
+.createButtonContainer {
     padding-block: 16px;
 }
 
@@ -21,6 +22,7 @@
 
 .editButton {
     background-color: transparent;
+    border-radius: 10px;
     border-color: #ff6a00;
     color: #ff6a00;
 }
@@ -33,6 +35,7 @@
 
 .detailsButton {
     background-color: transparent;
+    border-radius: 10px;
     border-color: #0099fe;
     color: #0099fe;
 }
@@ -45,6 +48,7 @@
 
 .deleteButton {
     background-color: transparent;
+    border-radius: 10px;
     border-color: #ff0000;
     color: #ff0000;
 }

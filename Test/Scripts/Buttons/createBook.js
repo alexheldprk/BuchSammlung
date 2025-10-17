@@ -2,8 +2,8 @@
 document.addEventListener("DOMContentLoaded", function () {
 
     /*Referenziere Elemente aus HTML Formular*/
-    const popup = document.getElementById("popupFormular");
-    const oeffnenButton = document.querySelector(".neuesbuchButton");
+    const popup = document.getElementById("createPopup");
+    const oeffnenButton = document.querySelector(".createButton");
     const schliessenButton = document.querySelector(".createclose");
     const abbrechenButton = document.getElementById("abbrechen");
     const formular = document.getElementById("buchform");

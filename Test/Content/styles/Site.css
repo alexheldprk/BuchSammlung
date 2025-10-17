@@ -21,12 +21,15 @@ textarea {
 
 /*Suchleiste*/
 
-.suchleisteContainer {
+.searchbarContainer {
     width: 200%;
 }
 
-.suchleiste {
+.searchbar {
     width: 200%;
 }
+
+
+/*testpopup*/
 
 

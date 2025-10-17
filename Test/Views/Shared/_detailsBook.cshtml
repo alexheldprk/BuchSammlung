@@ -1,17 +1,42 @@
-﻿@{
-    Layout = null;
-}
+﻿@*<div id="detailsPopup" class="popup">
+    <div class="popup-inhalt">
+        <span class="detailsclose">&times;</span>
+        <h3 id="detailsTitel">Buchdetails: ...</h3>
+        <hr />
 
-<!DOCTYPE html>
+        <dl class="detailsList">
 
-<html>
-<head>
-    <meta name="viewport" content="width=device-width" />
-    <title></title>
-</head>
-<body>
-    <div>
-    
+            <dt>Titel</dt>
+            <dd id="detailTitel">...</dd>
+
+            <dt>Autor</dt>
+            <dd id="detailAutor">...</dd>
+
+            <dt>Isbn</dt>
+            <dd id="detailIsbn">...</dd>
+
+            <dt>Jahr</dt>
+            <dd id="detailJahr">...</dd>
+
+        </dl>
+
+        <div class="popupButtons">
+            <button type="button" id="abbrechen" class="btn btn-secondary">Schliessen</button>
+        </div>
+
+        <div id="popupOverlay"´class="overlay"></div>
+
     </div>
-</body>
-</html>
+</div>*@
+
+
+
+
+
+<div id="detailsPopup" class="popup" style="display:none;">
+    <h3>Test-Popup</h3>
+    <p>testtest123</p>
+    <button id="closedetails">Schliessen</button>
+</div>
+
+<div id="popupOverlay" class="overlay" style="display:none;"></div>

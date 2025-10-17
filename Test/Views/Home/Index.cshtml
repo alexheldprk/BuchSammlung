@@ -2,88 +2,90 @@
     ViewBag.Title = "Home Page";
 }
 
-<main>
+<div>
+    <h1>Büchersammlung</h1>
+    <p>Das ist eine Website um seine <br />Büchersammlung digital zu dokumentieren</p>
+</div>
 
-    <div>
-        <h1>Büchersammlung</h1>
-        <p title=Tooltip2 test>Das ist eine Website um seine <br />Büchersammlung digital zu dokumentieren</p>
-    </div>
+<div class="searchbarContainer">
+    <form>
+        <input type="search" class="searchbar" placeholder="Live-Suche" />
+    </form>
+</div>
 
-    <div class="suchleisteContainer">
-        <form>
-            <input type="search" class="suchleiste" placeholder="Live-Suche" />
-        </form>
-    </div>
+<div class="createButtonContainer">
+    <button class="createButton">Neues Buch Hinzufügen</button>
+</div>
 
-    <div class="neuesbuchContainer">
-        <button class="neuesbuchButton">Neues Buch Hinzufügen</button>
-    </div>
+<div class="tabelleContainer">
+    <table>
+        <tr>
+            <th>Titel</th>
+            <th>Autor</th>
+            <th>ISBN</th>
+            <th>Jahr</th>
+            <th>Aktionen</th>
+        </tr>
+        <tr>
+            <td>Atlantis</td>
+            <td>Platon</td>
+            <td>12345678910</td>
+            <td>1500</td>
+            <td>
 
-    <div class="tabelleContainer">
-        <table>
-            <tr>
-                <th>Titel</th>
-                <th>Autor</th>
-                <th>ISBN</th>
-                <th>Jahr</th>
-                <th>Aktionen</th>
-            </tr>
-            <tr>
-                <td>Atlantis</td>
-                <td>Platon</td>
-                <td>12345678910</td>
-                <td>1500</td>
-                <td>
-                    <button class="editButton">Bearbeiten</button>
-                    <button class="detailsButton">Details</button>
-                    <button class="deleteButton">Löschen</button>
-                </td>
-            </tr>
-            <tr>
-                <td>test123</td>
-                <td>test123</td>
-                <td>test123</td>
-                <td>1234</td>
-            </tr>
-            <tr>
-                <td>test123</td>
-                <td>test123</td>
-                <td>test123</td>
-                <td>1234</td>
-            </tr>
-            <tr>
-                <td>test123</td>
-                <td>test123</td>
-                <td>test123</td>
-                <td>1234</td>
-            </tr>
-            <tr>
-                <td>test123</td>
-                <td>test123</td>
-                <td>test123</td>
-                <td>1234</td>
-            </tr>
-            <tr>
-                <td>test123</td>
-                <td>test123</td>
-                <td>test123</td>
-                <td>1234</td>
-            </tr>
-            <tr>
-                <td>test123</td>
-                <td>test123</td>
-                <td>test123</td>
-                <td>1234</td>
-            </tr>
-        </table>
-    </div>
+                <button class="editButton">Bearbeiten</button>
 
-</main>
+                <button id="detailsButton">Details</button>
+
+                <button class="deleteButton">Löschen</button>
+                
+            </td>
+        </tr>
+        <tr>
+            <td>test123</td>
+            <td>test123</td>
+            <td>test123</td>
+            <td>1234</td>
+        </tr>
+        <tr>
+            <td>test123</td>
+            <td>test123</td>
+            <td>test123</td>
+            <td>1234</td>
+        </tr>
+        <tr>
+            <td>test123</td>
+            <td>test123</td>
+            <td>test123</td>
+            <td>1234</td>
+        </tr>
+        <tr>
+            <td>test123</td>
+            <td>test123</td>
+            <td>test123</td>
+            <td>1234</td>
+        </tr>
+        <tr>
+            <td>test123</td>
+            <td>test123</td>
+            <td>test123</td>
+            <td>1234</td>
+        </tr>
+        <tr>
+            <td>test123</td>
+            <td>test123</td>
+            <td>test123</td>
+            <td>1234</td>
+        </tr>
+    </table>
+</div>
 
 @Html.Partial("_createBook")
 @Html.Partial("_editBook")
+@Html.Partial("_detailsBook")
 
 @section Scripts {
     <script src="~/Scripts/Buttons/createBook.js"></script>
     <script src="~/Scripts/Buttons/editBook.js"></script>
+    <script src="~/Scripts/Buttons/detailsBook.js"></script>
 } 
