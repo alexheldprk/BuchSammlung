@@ -8,9 +8,13 @@ document.addEventListener("DOMContentLoaded", function () {
     const abbrechenButton = document.getElementById("abbrechen");
     const formular = document.getElementById("buchform");
 
-    /*popup aufrufen/anzeigen*/
+    /*popup aufrufen/anzeigen Funktion+Aufruf*/
     function popupOeffnen() {
         popup.style.display = "block";
+    }
+
+    if (oeffnenButton) {
+        oeffnenButton.addEventListener("click", popupOeffnen);
     }
 
     /*   popup schliessen/ausblenden/formular beim schliessen Leeren*/
@@ -21,11 +25,7 @@ document.addEventListener("DOMContentLoaded", function () {
         }  
     }
 
-    if (oeffnenButton) {
-        oeffnenButton.addEventListener("click", popupOeffnen);
-    }
-
-    /*schließen und abbrechen buttons funktionen verknüpft*/
+    /*schließen und abbrechen buttons funktionen verknüpft (aufruf)*/
 
     if (schliessenButton) {
         schliessenButton.addEventListener("click", popupSchliessen);

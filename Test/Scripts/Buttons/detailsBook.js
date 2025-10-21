@@ -1,21 +1,44 @@
 ﻿/*Seite Laden*/
 document.addEventListener("DOMContentLoaded", function () {
 
+    /*Referenziere Elemente aus HTML Formular*/
     const popup = document.getElementById("detailsPopup");
-    const overlay = document.getElementById("popupOverlay");
+    const oeffnenButton = document.querySelector(".detailsButton");
+    const schliessenButton = document.querySelector(".detailsclose");
+    const abbrechenButton = document.getElementById("closedetails");
 
 
-    /*Öffnen*/
-    document.getElementById("detailsButton")?.addEventListener("click", function () {
-        if (popup) popup.style.display = "block";
-        if (overlay) overlay.style.display = "block";
-    });
+    /*popup aufrufen/anzeigen Funktion+Aufruf*/
+    function popupOeffnen() {
+        popup.style.display = "block";
+    }
 
+    if (oeffnenButton) {
+        oeffnenButton.addEventListener("click", popupOeffnen);
+    }
 
-    /*schliessen*/
-    document.getElementById("closedetails")?.addEventListener("click", function () {
-        if (popup) popup.style.display = "none";
-        if (overlay) overlay.style.display = "none";
-    });
+    /*popup schließen/ausblenden Funktion*/
+    function popupSchliessen() {
+        popup.style.display = "none";
+    }
+    
+    /*schließen und abbrechen buttons funktionen verknüpft (aufruf)*/
+
+    if (schliessenButton) {
+        schliessenButton.addEventListener("click", popupSchliessen);
+    }
+    if (abbrechenButton) {
+        abbrechenButton.addEventListener("click", popupSchliessen);
+    }
+
+    /*Schließen bei klick neben das popup*/
+
+    if (popup) {
+        popup.addEventListener("click", function (event) {
+            if (event.target == popup) {
+                popupSchliessen();
+            }
+        });
+    }
 
 });

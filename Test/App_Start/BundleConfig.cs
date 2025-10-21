@@ -28,7 +28,8 @@ namespace Test
                       "~/Content/styles/table.css",
                       "~/Content/styles/buttons.css",
                       "~/Content/styles/createbookPopup.css",
-                      "~/Content/styles/editbookPopup.css"));
+                      "~/Content/styles/editbookPopup.css",
+                      "~/Content/styles/detailbookPopup.css"));
         }
     }
 }

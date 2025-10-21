@@ -8,22 +8,21 @@ document.addEventListener("DOMContentLoaded", function () {
     const abbrechenButton = document.getElementById("abbrechen");
     const formular = document.getElementById("buchform");
 
-    /*popup aufrufen/anzeigen*/
+    /*popup aufrufen/anzeigen Funktion+Aufruf*/
     function popupOeffnen() {
         popup.style.display = "block";
-    }
-
-    /*   popup schliessen/ausblenden*/
-    function popupSchliessen() {
-        popup.style.display = "none";
-        /*if (formular) formular.reset();  *//*formular beim schliessen Leeren*/
     }
 
     if (oeffnenButton) {
         oeffnenButton.addEventListener("click", popupOeffnen);
     }
 
-    /*schließen und abbrechen buttons funktionen verknüpft*/
+    /*   popup schliessen/ausblenden*/
+    function popupSchliessen() {
+        popup.style.display = "none";
+    }
+
+    /*schließen und abbrechen buttons funktionen verknüpft (aufruf)*/
 
     if (schliessenButton) {
         schliessenButton.addEventListener("click", popupSchliessen);
