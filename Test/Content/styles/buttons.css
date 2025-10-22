@@ -20,6 +20,9 @@
 
 /*Formular buttons*/
 
+
+/*Bearbeiten Button*/
+
 .editButton {
     background-color: transparent;
     border-radius: 10px;
@@ -33,6 +36,8 @@
         color: #000000
     }
 
+/*Details Button*/
+
 .detailsButton {
     background-color: transparent;
     border-radius: 10px;
@@ -45,6 +50,8 @@
         border-color: black;
         color: #000000
     }
+
+/*Löschen Button*/
 
 .deleteButton {
     background-color: transparent;

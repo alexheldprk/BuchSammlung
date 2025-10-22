@@ -160,6 +160,7 @@
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <None Include="Scripts\jquery-3.7.0.intellisense.js" />
+    <Content Include="Scripts\Buttons\BookJsHandler.js" />
     <Content Include="Scripts\Buttons\createBook.js" />
     <Content Include="Scripts\Buttons\detailsBook.js" />
     <Content Include="Scripts\Buttons\editBook.js" />

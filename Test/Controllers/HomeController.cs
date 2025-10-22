@@ -8,8 +8,16 @@ namespace Test.Controllers
 {
     public class HomeController : Controller
     {
-        public ActionResult Index()
+        private static List<Book> _bookList = new List<Book>();
+
+        public ActionResult manageBooks()
         {
+
+            //books array erstellen
+            // in html mit for schleife füllen
+
+
+
             return View();
         }
 
@@ -26,5 +34,7 @@ namespace Test.Controllers
 
             return View();
         }
+
+
     }
 }

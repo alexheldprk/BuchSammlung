@@ -18,65 +18,82 @@
 </div>
 
 <div class="tabelleContainer">
-    <table>
-        <tr>
-            <th>Titel</th>
-            <th>Autor</th>
-            <th>ISBN</th>
-            <th>Jahr</th>
-            <th>Aktionen</th>
-        </tr>
-        <tr>
-            <td>Atlantis</td>
-            <td>Platon</td>
-            <td>12345678910</td>
-            <td>1500</td>
-            <td>
+    <table id="bookTable">
+        <thead>
+            <tr>
+                <th>Titel</th>
+                <th>Autor</th>
+                <th>ISBN</th>
+                <th>Jahr</th>
+                <th>Aktionen</th>
+            </tr>
+        </thead>
+        <tbody>
 
-                <button class="editButton">Bearbeiten</button>
+            @for (int i = 0; i < Model.Count; i++)
+            {
+                <tr>
+                    <td>@(i + 1)</td>
+                    <td>@Model[i].Id</td>
+                    <td>@Model[i].Titel</td>
+                    <td>@Model[i].Autor</td>
+                    <td>@Model[i].ISBN</td>
+                    <td>@Model[i].Jahr</td>
+                </tr>
+            }
 
-                <button class="detailsButton">Details</button>
+            @*<tr>
+                <td>Atlantis</td>
+                <td>Platon</td>
+                <td>12345678910</td>
+                <td>1500</td>
+                <td>
 
-                <button class="deleteButton">Löschen</button>
-                
-            </td>
-        </tr>
-        <tr>
-            <td>test123</td>
-            <td>test123</td>
-            <td>test123</td>
-            <td>1234</td>
-        </tr>
-        <tr>
-            <td>test123</td>
-            <td>test123</td>
-            <td>test123</td>
-            <td>1234</td>
-        </tr>
-        <tr>
-            <td>test123</td>
-            <td>test123</td>
-            <td>test123</td>
-            <td>1234</td>
-        </tr>
-        <tr>
-            <td>test123</td>
-            <td>test123</td>
-            <td>test123</td>
-            <td>1234</td>
-        </tr>
-        <tr>
-            <td>test123</td>
-            <td>test123</td>
-            <td>test123</td>
-            <td>1234</td>
-        </tr>
-        <tr>
-            <td>test123</td>
-            <td>test123</td>
-            <td>test123</td>
-            <td>1234</td>
-        </tr>
+                    <button class="editButton">Bearbeiten</button>
+
+                    <button class="detailsButton">Details</button>
+
+                    <button class="deleteButton">Löschen</button>
+
+                </td>
+            </tr>
+            <tr>
+                <td>test123</td>
+                <td>test123</td>
+                <td>test123</td>
+                <td>1234</td>
+            </tr>
+            <tr>
+                <td>test123</td>
+                <td>test123</td>
+                <td>test123</td>
+                <td>1234</td>
+            </tr>
+            <tr>
+                <td>test123</td>
+                <td>test123</td>
+                <td>test123</td>
+                <td>1234</td>
+            </tr>
+            <tr>
+                <td>test123</td>
+                <td>test123</td>
+                <td>test123</td>
+                <td>1234</td>
+            </tr>
+            <tr>
+                <td>test123</td>
+                <td>test123</td>
+                <td>test123</td>
+                <td>1234</td>
+            </tr>
+            <tr>
+                <td>test123</td>
+                <td>test123</td>
+                <td>test123</td>
+                <td>1234</td>
+            </tr>*@
+        </tbody>
     </table>
 </div>
 
